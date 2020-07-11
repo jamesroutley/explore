@@ -20,6 +20,7 @@ items:
  - 4ian/GDevelop
  - mrdoob/three.js
  - phoboslab/Impact
+ - jamesroutley/24a2
 display_name: JavaScript Game Engines
 created_by: leereilly
 ---
